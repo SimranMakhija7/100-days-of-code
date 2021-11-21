@@ -8,3 +8,8 @@
 
 **Link(s) to work**
 1. [Gatsby starter site](https://bloggatsby40098.gatsbyjs.io/)
+
+**Paying it forward**
+Encourage at least two other people in the challenge on Twitter every day! Pay it forward!
+1. [https://twitter.com/Katheri22584554/status/1459470681410842627?s=20](https://twitter.com/Katheri22584554/status/1459470681410842627?s=20)
+2. [https://twitter.com/ameetgwad/status/1460157446836604933?s=20](https://twitter.com/ameetgwad/status/1460157446836604933?s=20)
