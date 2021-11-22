@@ -16,7 +16,7 @@ Encourage at least two other people in the challenge on Twitter every day! Pay i
 
 ### Day 0: November 21, Sunday
 
-**Today's Progress**: Gone through parts 4-5 or the [Gatsby tutorial](https://www.gatsbyjs.com/docs/tutorial/) and learned basic concepts of GraphQL.
+**Today's Progress**: Gone through parts 4-7 or the [Gatsby tutorial](https://www.gatsbyjs.com/docs/tutorial/) and learned basic concepts of GraphQL.
 
 
 **Link(s) to work**
