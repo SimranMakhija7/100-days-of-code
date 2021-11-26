@@ -26,9 +26,9 @@ Encourage at least two other people in the challenge on Twitter every day! Pay i
 **Paying it forward**
 Encourage at least two other people in the challenge on Twitter every day! Pay it forward!
 1. [https://twitter.com/BnMimia/status/1462834003195711488?s=20](https://twitter.com/BnMimia/status/1462834003195711488?s=20)
-2. [https://twitter.com/PamChan269/status/1462835144805412866?s=20](https://twitter.com/PamChan269/status/1462835144805412866?s=20)
+2. [https://twitter.com/PamChan269/status/1462835144805412866?s=20](https://twitter.com/PamChan269/status/1462835144805412866?s=20) 
 
-### Day 1: November 22, Monday
+### Day 2: November 26, Friday
 
 **Today's Progress**: 
 1. Learned to use Gatsby Starters.
