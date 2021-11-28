@@ -35,9 +35,16 @@ Encourage at least two other people in the challenge on Twitter every day! Pay i
 2. Deployed a Gatsby website using Netlify and set up domain forwarding.
 3. Changed metadata of the site and understood code base and site structure.
 
-
 **Link(s) to work**
 1. [Blog link](http://blog.simran.codes/)
 2. [Github repo](https://github.com/SimranMakhija7/blog)
+
+### Day 3: November 28, Sunday
+
+**Today's Progress**: 
+1. Wrote a blog post on my blog site about how I built the blog site with GatsbyJS!
+This is my first ever tech blog 😬😬
+**Link(s) to work**
+1. [Developing this blog](https://justdevsim.netlify.app/developblog-day2/)
 
 
