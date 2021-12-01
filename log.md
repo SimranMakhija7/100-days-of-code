@@ -44,7 +44,25 @@ Encourage at least two other people in the challenge on Twitter every day! Pay i
 **Today's Progress**: 
 1. Wrote a blog post on my blog site about how I built the blog site with GatsbyJS!
 This is my first ever tech blog 😬😬
+
 **Link(s) to work**
 1. [Developing this blog](https://justdevsim.netlify.app/developblog-day2/)
 
+### Day 4: November 30, Tuesday
 
+**Today's Progress**: 
+Added darkmode to my blog site with the useDarkMode hook. 
+
+**Link(s) to work**
+Blog site: https://justdevsim.netlify.app 
+Blog repo:
+http://github.com/SimranMakhija7/blog
+Hook repo: http://github.com/donavon/use-dark-mode
+
+### Day 5: December 1, Wednesday
+
+**Today's Progress**: 
+Explored wordpress. Learned the basics.
+
+**Link(s) to work**:
+https://justdevsim.wordpress.com/
