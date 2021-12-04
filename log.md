@@ -66,3 +66,29 @@ Explored wordpress. Learned the basics.
 
 **Link(s) to work**:
 https://justdevsim.wordpress.com/
+
+### Day 6: December 2, 2021
+
+**Today's Progress**: 
+Worked through exercises Lecture 1 of @neogcamp and documented my learnings. Doing these exercises was fun and was a great way to recap basics of javascript.
+
+**Link(s) to work**:
+Notes blog: https://justdevsim.netlify.app/neog-notes-1/
+repl link: https://replit.com/@SimranMakhija7/neogcamp-lec-1?v=1
+
+### Day 7: December 3, 2021
+
+**Today's Progress**: 
+Worked through exercises for Lecture 2 of neogcamp
+Recapped git, learned what opensource licenses are and more…
+
+**Link(s) to work**:
+https://justdevsim.netlify.app/day-7-notes/
+
+### Day 8: December 4, 2021
+
+**Today's Progress**: 
+I went through neogcamp Lecture 3 Part one - all the basics of HTML5, recapped and relearned the right way.
+
+**Link(s) to work**:
+https://github.com/SimranMakhija7/neogcamp/tree/main/component-library
