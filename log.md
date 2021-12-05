@@ -92,3 +92,12 @@ I went through neogcamp Lecture 3 Part one - all the basics of HTML5, recapped a
 
 **Link(s) to work**:
 https://github.com/SimranMakhija7/neogcamp/tree/main/component-library
+
+### Day 9: December 5, 2021
+
+**Today's Progress**: 
+I went through neogcamp Lecture 3 CSS part - all the basics of CSS3. Took notes. Learned about the BEM convention.
+
+**Link(s) to work**:
+https://github.com/SimranMakhija7/neogcamp/blob/main/component-library/styles.css
+https://justdevsim.netlify.app/intro-html-css/
