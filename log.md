@@ -100,4 +100,13 @@ I went through neogcamp Lecture 3 CSS part - all the basics of CSS3. Took notes.
 
 **Link(s) to work**:
 https://github.com/SimranMakhija7/neogcamp/blob/main/component-library/styles.css
+
 https://justdevsim.netlify.app/intro-html-css/
+
+### Day 10: December 6, 2021
+
+**Today's Progress**: 
+Made a web app that translates human speak to minion speak
+
+**Link(s) to work**:
+https://simranmakhija7.github.io/neogcamp/banana-speak/
