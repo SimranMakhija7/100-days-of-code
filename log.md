@@ -110,3 +110,6 @@ Made web apps with vanillaJS that translates human speak to minion speak and to 
 
 **Link(s) to work**:
 https://simranmakhija7.github.io/neogcamp/banana-speak/
+
+https://simranmakhija7.github.io/neogcamp/shakespeare-speak/
+
