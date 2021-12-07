@@ -110,6 +110,13 @@ Made web apps with vanillaJS that translates human speak to minion speak and to 
 
 **Link(s) to work**:
 https://simranmakhija7.github.io/neogcamp/banana-speak/
-
 https://simranmakhija7.github.io/neogcamp/shakespeare-speak/
 
+### Day 11: December 7, 2021
+
+**Today's Progress**: 
+Worked through Lecture 5 of neogcamp and developed 2 basic ReactJS applications. One that interprets Food emojis and one that lists some good tunes.
+
+**Link(s) to work**:
+[Food Interpreter](https://xnnim.csb.app/) - [Repo](https://github.com/SimranMakhija7/food-interpreter) 
+[GoodTunes](https://hj5h3.csb.app/) - [Repo](https://github.com/SimranMakhija7/good-tunes)
