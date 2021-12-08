@@ -120,3 +120,12 @@ Worked through Lecture 5 of neogcamp and developed 2 basic ReactJS applications.
 **Link(s) to work**:
 [Food Interpreter](https://xnnim.csb.app/) - [Repo](https://github.com/SimranMakhija7/food-interpreter) 
 [GoodTunes](https://hj5h3.csb.app/) - [Repo](https://github.com/SimranMakhija7/good-tunes)
+
+### Day 12: December 8, 2021
+
+**Today's Progress**: 
+Did some basics practice exercises from neogcamp. Developed 3 basic vanillaJS web applications. 
+**Link(s) to work**:
+- Mark10: [Cash Register](https://simranmakhija7.github.io/cash-register-neog/)
+- Mark11: [Is Your Birthday Lucky?](https://simranmakhija7.github.io/is-your-birthday-lucky/)
+- Mark14: [Profit or Loss](https://simranmakhija7.github.io/profit-or-loss/)
