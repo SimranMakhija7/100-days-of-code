@@ -125,6 +125,7 @@ Worked through Lecture 5 of neogcamp and developed 2 basic ReactJS applications.
 
 **Today's Progress**: 
 Did some basics practice exercises from neogcamp. Developed 3 basic vanillaJS web applications. 
+
 **Link(s) to work**:
 - Mark10: [Cash Register](https://simranmakhija7.github.io/cash-register-neog/)
 - Mark11: [Is Your Birthday Lucky?](https://simranmakhija7.github.io/is-your-birthday-lucky/)
